@@ -3,3 +3,5 @@ The CIFAR-10 dataset (Canadian Institute For Advanced Research) is a collection 
 There are 6,000 images of each class.[4]
 
 [Homepage here](https://www.cs.toronto.edu/~kriz/cifar.html)
+
+## Why neural networks
