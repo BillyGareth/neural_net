@@ -5,3 +5,4 @@ There are 6,000 images of each class.[4]
 [Homepage here](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ## Why neural networks
+Neural networks and deep learning currently provide the best solutions to many problems in image recognition, speech recognition, and natural language processing. This book will teach you many of the core concepts behind neural networks and deep learning.
